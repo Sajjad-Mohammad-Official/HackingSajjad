@@ -100,7 +100,7 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin RanaAhil\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "sajjad"
+CorrectUsername = "Sajjad"
 CorrectPassword = "sajjad"
 
 loop = 'true'
